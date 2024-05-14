@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_12_13_CLOSEDHASH", "Laboratorna_12_13_CLOSEDHASH\Laboratorna_12_13_CLOSEDHASH.csproj", "{2C260558-2D08-4A62-8F10-DAD1DE205649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratorna_12_13_CLOSEDHASH.Tests", "Laboratorna_12_13_CLOSEDHASH.Tests\Laboratorna_12_13_CLOSEDHASH.Tests.csproj", "{60F852CD-A546-453E-8866-84CE9C5A171E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C260558-2D08-4A62-8F10-DAD1DE205649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C260558-2D08-4A62-8F10-DAD1DE205649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C260558-2D08-4A62-8F10-DAD1DE205649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C260558-2D08-4A62-8F10-DAD1DE205649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60F852CD-A546-453E-8866-84CE9C5A171E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60F852CD-A546-453E-8866-84CE9C5A171E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60F852CD-A546-453E-8866-84CE9C5A171E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60F852CD-A546-453E-8866-84CE9C5A171E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
